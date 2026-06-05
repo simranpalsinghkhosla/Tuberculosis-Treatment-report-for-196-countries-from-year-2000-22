@@ -1,6 +1,6 @@
 # Historical Tuberculosis Treatment Success Rate Analysis (2000–2022)
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes global Tuberculosis (TB) treatment success rates for new and relapse cases over two decades (2000–2022). Using Python, the pipeline handles data cleaning, handles data types, and applies inferential statistical modeling to uncover public health trends.
 
 ---
